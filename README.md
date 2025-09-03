@@ -23,8 +23,7 @@ It shows core back-end development practices:
 
 ```bash
 ./mvnw spring-boot:run
+```
 
----
-
-Once running, the API will be available at:
-http://localhost:8080/api/todos
+Once running, the API will be available at:  
+[http://localhost:8080/api/todos](http://localhost:8080/api/todos)
